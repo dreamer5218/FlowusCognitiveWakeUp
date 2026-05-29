@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "90fed0127ccfb2be",
+    "type": "split",
+    "children": [
+      {
+        "id": "277428b286a86294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8530fa8c90c15003",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f9ca4aae4583a7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e501a62009f75d40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe7c3be5d82f74e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3c233cc84d6f52f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3cfc17058b9d0d46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 522.5
+  },
+  "right": {
+    "id": "4a37a7783198c5d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac85b0b35108ef6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dafb5b5401ba3e6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "测试一下.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "测试一下 的反向链接列表"
+            }
+          },
+          {
+            "id": "1443081bd5c9f99f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "测试一下.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "测试一下 的出链列表"
+            }
+          },
+          {
+            "id": "182517e58c8f1c7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a54224be90fca2ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "332704556e6055b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "测试一下.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "测试一下 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "fe7c3be5d82f74e8",
+  "lastOpenFiles": [
+    "01-如何更好的使用认知快充阅览室.md",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-28-行动与习惯-拖延症是如何影响你的日常生活/拖延症是如何影响你的日常生活.md",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-13-思维重构-斯多葛财富之道适用于现代社会的古老投资法则/斯多葛财富之道：适用于现代社会的古老投资法则.md",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-12-思维重构-第一性原理埃隆马斯克谈独立思考的力量/第一性原理：埃隆・马斯克谈独立思考的力量.md",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-11-精力管理-如何每天12小时专注于你的目标/如何每天12小时专注于你的目标.md",
+    "认知快充阅览室/Service 08 - 往期日推/daily-push-organizer-SKILL.md",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-20-思维重构-财富积累Roadmap8条可行的财富自由建议/财富积累Roadmap8条可行的财富自由建议.pdf",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-20-思维重构-财富积累Roadmap8条可行的财富自由建议/财富积累Roadmap8条可行的财富自由建议.MP3",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-26-思维重构-系统思考的一生/系统思考的一生.pdf",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-26-思维重构-系统思考的一生/系统思考的一生.MP3",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-15-职业规划-构建你的思维模型/构建你的思维模型.pdf",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-15-职业规划-构建你的思维模型/构建你的思维模型.MP3",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-19-高效学习-我对阅读的所有认知都是错的/我对阅读的所有认知都是错的.pdf",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-19-高效学习-我对阅读的所有认知都是错的/我对阅读的所有认知都是错的.MP3",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-14-人生忠告-小心你人生中的虚荣指标/小心你人生中的“虚荣指标”.pdf",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-14-人生忠告-小心你人生中的虚荣指标/小心你人生中的“虚荣指标”.MP3",
+    "认知快充阅览室/Service 08 - 往期日推/SKILL.md",
+    "认知快充阅览室/Service 08 - 往期日推/文章列表.md",
+    "标题列表.md",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-25-底层认知-刻意练习入门指南/刻意练习入门指南.md",
+    "认知快充阅览室/Service 08 - 往期日推/2026-05-29-高效学习-高效学习学得更快记得更牢/高效学习：学得更快，记得更牢.md",
+    "00-基础配置/02-Emoji 图标大全.md",
+    "00-基础配置/01-MarkDown语法.md",
+    "测试.md",
+    "测试.md",
+    "assets/测试一下/file-20260522110514224.png",
+    "测试一下.md",
+    "assets/测试一下/file-20260522110655560.png",
+    "assets/测试一下/file-20260522110640892.png",
+    "assets/测试一下/file-20260522110538870.png"
+  ]
+}
