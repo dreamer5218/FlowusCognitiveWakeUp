@@ -1,4 +1,6 @@
 ---
+tags:
+  - skill
 name: daily-push-organizer
 description: 整理"日推"内容文件。当用户需要将同名的 .mp3 和 .pdf 文件整理到同一文件夹、创建 Markdown 笔记时使用。触发场景：整理日推文件、归类音频和PDF、批量创建Obsidian笔记、文件归档整理。关键词：日推、整理文件、归类、创建笔记、mp3、pdf、移动文件。
 ---
